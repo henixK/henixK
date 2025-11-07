@@ -1,7 +1,7 @@
 # Kevin Castaneda Bautista 🔧  
 **Full Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Castaneda_Bautista-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Castaneda_Bautista-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/kevin-bautista-469411199)  
 [![GitHub followers](https://img.shields.io/github/followers/henixK?label=Follow&style=social)](https://github.com/henixK)
 
 ---
